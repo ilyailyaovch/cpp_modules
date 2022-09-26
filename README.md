@@ -15,3 +15,17 @@ Introduction in OOP
 - module06 - C++ casts
 - module07 - C++ templates
 - module08 - Templated containers, iterators, algorithms
+
+## Launch
+
+1. Build a project using Makefile
+
+   ```sh
+   $ make
+   ```
+
+2. Run test script
+
+   ```sh
+   $ make test
+   ```
