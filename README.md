@@ -30,6 +30,6 @@ Introduction in OOP
    $ make test
    ```
 
-## Game
+## Done
 
-  <img src="./screenshot/fin.png" width="500" alt="game">
+  <img src="./screenshot/fin.png" width="300">
