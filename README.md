@@ -29,3 +29,7 @@ Introduction in OOP
    ```sh
    $ make test
    ```
+
+## Game
+
+  <img src="./screenshot/fin.png" width="500" alt="game">
